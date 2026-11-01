@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.itcvariym.planner",
+        "sha256_cert_fingerprints": ["C8:24:E1:76:01:3A:34:F3:D7:E6:70:64:A1:2C:D3:E1:CD:4D:8A:79:EA:EC:C7:A7:2B:72:75:F1:45:4B:FD:2C"]
+      }
+    }]
